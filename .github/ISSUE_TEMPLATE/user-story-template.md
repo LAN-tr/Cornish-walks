@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-As a: ROLE
+As a **role** I can **capability** so that **received benefit**.
 
-I can: CAPABILITY
+### Acceptance Criteria
 
-So that: RECEIVED BENEFIT
+- Acceptance criteria 1
+- Acceptance criteria 2
+- Acceptance criteria 3
