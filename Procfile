@@ -1,1 +1,1 @@
-web: gunicorn cornish_alks.wsgi
+web: gunicorn cornish_walks.wsgi
