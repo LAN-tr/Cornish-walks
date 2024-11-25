@@ -44,7 +44,7 @@ so that I can enjoy the views and unique landmarks.
     - Have an image of some of the views from the walk so walkers can choose based on scenery if they want
     - Include other information about the local area that tourists might not know 
 
-  - **User Story, Admin can edit and delete:** As an admin, I want to add, edit, and delete walks from the database, so that I can manage the content of the site.
+  - **User Story, Admin can add, edit and delete:** As an admin, I want to add, edit, and delete walks from the database, so that I can manage the content of the site.
  
 -  **Acceptance Criteria:** - 
     - Admins should be able to create new walk entries.
@@ -131,6 +131,13 @@ Discuss how accessibility guidelines were adhered to, including colour contrast 
 ## Design Decisions
 
 ### Colour scheme
+
+Text - Slate Grey (#4b4b4b)
+
+Background - Light Cream (f9f6f1)
+
+Google fonts: Montserrat for Titles, Inter for walk descriptions and user reviews.
+
 ### Typography
 ### Imagery
 ### Wireframes
