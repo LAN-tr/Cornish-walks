@@ -115,6 +115,78 @@ so that I can prepare accordingly.
 (Include any could-have features considered for future enhancements)  
 **Guidance:** Document any optional features that are nice to have but not essential.
 
+## User Flow Steps
+
+### Entry Point
+
+Users open the app and land on the homepage.
+
+### Key Goals for Users
+  - Discover walks (search or browse)
+  - View walk details (distance, difficulty, location, etc)
+  - Save favourite walks or plan their trip
+  - Access GPS-enabled maps for navigation
+  - Log in for personalized features (e.g. saved completed walks, making comments)
+  - Review or share their experience of a walk
+
+## User flow Outline
+
+1. Start: Homepage
+
+  - Options for:
+      -  Search Walks (keyword, location, distance, difficulty, etc.).
+      -  Browse Walks (featured, by category, nearby).
+      -  Login/Sign Up for personalized features.
+      -  About Section (app info, contact, etc.).
+
+2. Search/Browse Walks
+
+  -  Input search criteria or browse categories:
+      -  Category (e.g., coastal walks, dog-friendly walks).
+      -  Distance (short, medium, long).
+      -  Difficulty (easy, moderate, challenging).
+
+  -  View results (list/grid format with thumbnail, title, distance, etc.).
+  -  Select a walk from the list to see detailed information.
+
+3. Walk Details Page
+
+  -  Details include:
+      -  Title, description, distance, duration, difficulty.
+      -  Interactive map (with GPS support).
+      -  Reviews and ratings.
+      -  Related walks or nearby attractions.
+  -  User options:
+      -  Save to favorites (requires login).
+      -  Start navigation (open map/GPS).
+
+4. Navigation/GPS View
+
+  -  Display an interactive map with the selected walk's route.
+  -  Include features like:
+      -  Turn-by-turn instructions.
+      -  Offline GPX download option.
+      -  Nearby points of interest.
+
+5. User Features
+
+  -  Logged-in users can:
+      -  Save favorite walks.
+      -  Track completed walks.
+      -  Add reviews/ratings for walks they've completed.
+  -  Reviews/Community:
+      -  Post comments or share tips/photos for a walk.
+
+6. Post-Walk Options
+
+  -  Review and rate the walk.
+  -  Share the walk on social media.
+  -  Plan the next walk.
+
+7. Exit
+
+  -  Users log out or close the app.
+
 ## Design Decisions
 
 ### Wireframes
