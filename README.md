@@ -1,5 +1,4 @@
-# Project Title
-
+# Cornish Walks
 ## Overview
 
 ### Purpose
@@ -14,16 +13,81 @@ A Cornish walks app would aim to solve several problems faced by residents, tour
 
 - Accessibility and inclusivity issues: The app could highlight accessible trails and could indicate suitability for various needs and details about elevation, terrain and rest points.
 
+- Limited community and sharing features: Walkers can share their experiences and review the walks with a space for comments and a way to save walks that they enjoyed, or would like to try next.
+
 This project's purpose is to make exploring Cornwall easier, safer and more enjoyable. It would cater to a diverse range of users; casual walkers, serious hikers, tourists and locals by offering practical tools, curated recommendations and engaging features.
 
 
 ## User Stories
 
 ### Must-Have User Stories
-- **User Story 1:** Briefly describe the must-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the must-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
+- **User Story 1:**  As a hiker I want to search for walking trails by location, difficulty, and distance,
+so that I can find a route that suits my preferences and fitness level. 
+ 
+  **Acceptance Criteria:** 
+  - Search function for location, walk difficulty and distance.
+  - Routes included that are suitable for proper hikers, not just short walks.
+
+- **User Story 2:** As a casual walker, I want to see a list of easy walks,
+so that I can enjoy a relaxing experience with my family.
+ 
+  **Acceptance Criteria:** - 
+  - Have categories of walks to search such as 'easy'.
+  - Include shorter routes
+  - Add other information e.g. nearby cafe, toilets, etc for family day out.
+
+- **User Story 3:**  As a tourist, I want to find scenic and coastal walks in Cornwall,
+so that I can enjoy the views and unique landmarks.
+
+  **Acceptance Criteria:** 
+  - Have categories such as Coastal so walkers can choose the type of walk they want
+  - Have an image of some of the views from the walk so walkers can choose based on scenery if they want
+  - Include other information about the local area that tourists might not know 
+
+- **User Story 4:**  As a returning user, I want to save my favourite walks,
+so that I can revisit them later. 
+ 
+  **Acceptance Criteria:** 
+  - User can login to their account
+  - User can save walks so can quickly find the walks they have done
+  
+- **User Story 5:**  As a user, I want to view detailed maps of walking trails,
+so that I can navigate the routes easily.
+
+  **Acceptance Criteria:** 
+  - Include maps of the route
+  - Written directions/ descriptions of the route also
+
+- **User Story 6:**  As a user, I want to leave reviews and ratings for walking routes,
+so that I can help others decide which trails to explore.
+
+  **Acceptance Criteria:** 
+  - Users can leave reviews and ratings
+  - Users can also edit their reviews or delete them if they want
+
+- **User Story 7:**  As a user I can access a list of walks so that I can find out the details about them; distance, difficulty, route description, start and end points.
+ 
+  **Acceptance Criteria:** 
+  - Show list of walks with details about them
+  - Clearly mark distance and difficulty
+  - Have description of route including start and end points
+
+- **User Story 8:**  As a user I can log in to an account. Logging in ensures users are authenticated, providing a layer of security and moderation for shared content.
+ 
+  **Acceptance Criteria:** 
+  - Have user accounts, and admin approved posts.
+
+- **User Story 9:**  As a walker, I want to see weather forecasts for the area of my chosen trail,
+so that I can prepare accordingly.
+ 
+  **Acceptance Criteria:** 
+  - Show relevant weather information for each route
+
+- **User Story 10:**  As a walker I can search for certain types of walks so that I can choose the type of experience I have.
+ 
+  **Acceptance Criteria:** 
+  - Have categories for walks; coastal, woodland, historical, 
+    
 
 (Include all prioritized must-have features)  
 **Guidance:** Draft the user stories during Phase 1: Ideation & Initial Setup and update them as you complete Phase 2: Must User Stories Implementation & Testing. Document each must-have feature here along with its acceptance criteria.
@@ -38,7 +102,12 @@ This project's purpose is to make exploring Cornwall easier, safer and more enjo
 **Guidance:** Document the secondary features that you aim to implement in Phase 3: Should User Stories Implementation & Any Advanced Features. Include clear acceptance criteria for each.
 
 ### Could-Have User Stories
-- **User Story 1:** Briefly describe the could-have feature.  
+- **User Story 1:** - **User Story 11:**  As a Site Admin I can create or update a blog so that I can offer users updates or tips.
+ 
+  **Acceptance Criteria:** 
+  - Create a blog feature
+  - the site admin can update and add posts
+
   **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
 - **User Story 2:** Briefly describe the could-have feature.  
   **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
