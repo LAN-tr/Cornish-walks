@@ -136,9 +136,10 @@ Text - Slate Grey (#4b4b4b)
 
 Background - Light Cream (f9f6f1)
 
+### Typography
+
 Google fonts: Montserrat for Titles, Inter for walk descriptions and user reviews.
 
-### Typography
 ### Imagery
 ### Wireframes
 Include wireframes for key sections of your website.  
