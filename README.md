@@ -3,12 +3,19 @@
 ## Overview
 
 ### Purpose
-A brief description of the project's purpose, what it aims to achieve, and the value it provides to the users.  
-**Guidance:** Begin filling out this section during Phase 1: Ideation & Initial Setup. Clearly articulate the main goal of your project, what it aims to achieve, and how it will provide value to your target audience.
 
-### Target Audience
-Identify the target audience for your website and explain why this audience will benefit from the project.  
-**Guidance:** Use this section to identify who will benefit from your project and why. This should be informed by your user stories and overall project objectives.
+A Cornish walks app would aim to solve several problems faced by residents, tourists, and outdoor enthusiasts in Cornwall. The key challenges the app would seek to address are:
+
+- Difficulty finding suitable walking trails: The app will provide a searchable database of trails with filters for distance, difficulty level, terrain and scenic features.
+
+- Lack of reliable maps and navigation tools: The app can include GPS-enabled maps for real-time navigation meaning that users do not need to rely on outdated or vague descriptions or drawings.
+
+- Challenges with weather and tides: The app could integrate weather updates and forecasts for specific areas and tide times for beaches and coastal walks.
+
+- Accessibility and inclusivity issues: The app could highlight accessible trails and could indicate suitability for various needs and details about elevation, terrain and rest points.
+
+This project's purpose is to make exploring Cornwall easier, safer and more enjoyable. It would cater to a diverse range of users; casual walkers, serious hikers, tourists and locals by offering practical tools, curated recommendations and engaging features.
+
 
 ## User Stories
 
